@@ -24,4 +24,4 @@ if time_bound == "yes":
     reminder += " today!"
 
 # Print the customized reminder
-print(reminder)
+print(f"Reminder: {reminder}")
